@@ -16,7 +16,7 @@
 </p>
 
 
-## About Me
+## 🎯 About Me
  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=duaren&show_icons=true&locale=en" alt="duaren"/>
 
 - 🔭 I’m currently working on  my [**portfolio**](duaren.github.io)
