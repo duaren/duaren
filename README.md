@@ -19,15 +19,15 @@
 ## 🎯 About Me
  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=duaren&show_icons=true&locale=en" alt="duaren"/>
 
-- 🔭 I’m currently working on  my [**portfolio**](duaren.github.io)
+- 🔭 I’m currently working on  my [**portfolio**](https://duaren.github.io)
 - 🌱 I’m currently learning **FrontEnd** with ![FCC](https://img.shields.io/badge/freecodecamp-27273D?logo=freecodecamp&logoColor=white)
 - 🚀 Always ready to collaborate for Dev Experiments
 - 🤝 I’m looking for help with **free tech certification voucher**
-- 👨‍💻 All of my projects are available at [duaren.me](duaren.me)
-- ✍🏾 I will regularly write articles on [duaren.me/blog](duaren.me/blog)
+- 👨‍💻 All of my projects are available at [duaren.me](https://duaren.me)
+- ✍🏾 I will regularly write articles on my [blog](https://duaren.me/blog)
 - 💬 Ask me about **css, tech stuff**
 - 📫 How to reach me: [**renaudduaren@gmail.com**](mailto:[**renaudduaren@gmail.com)
-- 📄 Know about my experiences [here](duaren.me/resume)
+- 📄 Know about my experiences [here](https://duaren.me/resume)
 - ⚡ Fun fact **I have so many hat. I touch a bit of many tech domain**
 
 
