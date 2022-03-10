@@ -1,10 +1,10 @@
 <h3 align="center">
   Hello there! Welcome to my Github profile
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=montserat&color=%2336BCF7&lines=I'm+Renaud+Ahouansou;You+can+call+me+%40duaren;I'm+self+taught+FrontEnd+Developer;Recent+Focus+on+IT+Support;Also+interested+in+Cloud+Computing;Always+learning+new+things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=montserat&color=%2336BCF7&lines=I'm+Renaud+Ahouansou;But+you+can+call+me+%40duaren;I'm+self+taught+FrontEnd+Developer;Recent+Focus+on+IT+Support;Also+interested+in+Cloud+Computing;Always+learning+new+things">
 </p>
 
 <p align="center">
@@ -25,10 +25,8 @@
 - 🤝 I’m looking for help with **free tech certification voucher**
 - 👨‍💻 All of my projects are available at [duaren.me](https://duaren.me)
 - ✍🏾 I will regularly write articles on my [blog](https://duaren.me/blog)
-- 💬 Ask me about **css, tech stuff**
 - 📫 How to reach me: [**renaudduaren@gmail.com**](mailto:[**renaudduaren@gmail.com)
-- 📄 Know about my experiences [here](https://duaren.me/resume)
-- ⚡ Fun fact **I have so many hat. I touch a bit of many tech domain**
+- ⚡ Fun fact **I have many hat. I touch a bit of many tech domain**
 
 
 ## 🛠️ My favorite tools
