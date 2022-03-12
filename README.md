@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=montserat&color=%2336BCF7&lines=I'm+Renaud+Ahouansou;But+you+can+call+me+%40duaren;I'm+self+taught+FrontEnd+Developer;Recent+Focus+on+IT+Support;Also+interested+in+Cloud+Computing;Always+learning+new+things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=montserat&color=%2336BCF7&lines=I'm+Renaud+Ahouansou;But+you+can+call+me+%40duaren;I'm+Junior+FrontEnd+Developer;Recent+Focus+on+IT+Support;Also+interested+in+Cloud+Computing;Always+learning+new+things">
 </p>
 
 <p align="center">
@@ -28,6 +28,12 @@
 - 📫 How to reach me: [**renaudduaren@gmail.com**](mailto:[**renaudduaren@gmail.com)
 - ⚡ Fun fact **I have many hat. I touch a bit of many tech domain**
 
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=duaren.visitor-badge" alt="visitor badge"/> 
+  <!-- <img src="https://visitor-badges.glitch.me?username=duaren&repo=visitor-badge&style=for-the-badge&contentType=svg" alt="visitor badge"/> -->
+</p>
+
+
 
 ## 🛠️ My favorite tools
 
@@ -43,9 +49,6 @@
   <a href="https://github.com/search?q=user%3Aduaren+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aduaren+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aduaren+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-
-
-
 
 </p>
   
