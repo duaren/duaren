@@ -16,7 +16,7 @@
 </p>
 
 
-## 🎯 About Me
+## 👨🏻‍💻 About Me
  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=duaren&show_icons=true&locale=en" alt="duaren"/>
 
 - 🔭 I’m currently working on  my [**portfolio**](https://duaren.github.io)
@@ -29,9 +29,9 @@
 - ⚡ Fun fact **I have many hat. I touch a bit of many tech domain**
 
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=duaren.visitor-badge" alt="visitor badge"/> 
+  <!--<img src="https://visitor-badge.glitch.me/badge?page_id=duaren.visitor-badge" alt="visitor badge"/> -->
   <!-- <img src="https://visitor-badges.glitch.me?username=duaren&repo=visitor-badge&style=for-the-badge&contentType=svg" alt="visitor badge"/> -->
-  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=duaren.duaren" alt="visitor badge"/> -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=duaren.duaren" alt="visitor badge"/>
 </p>
 
 
