@@ -31,6 +31,7 @@
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=duaren.visitor-badge" alt="visitor badge"/> 
   <!-- <img src="https://visitor-badges.glitch.me?username=duaren&repo=visitor-badge&style=for-the-badge&contentType=svg" alt="visitor badge"/> -->
+  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=duaren.duaren" alt="visitor badge"/> -->
 </p>
 
 
