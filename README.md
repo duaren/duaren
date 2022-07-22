@@ -12,7 +12,6 @@
 <a href="https://twitter.com/renauduaren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="renauduaren" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/renaud-ahouansou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renaudahouansou" height="30" width="40" /></a>
 <a href="https://instagram.com/renaud_duaren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="renaud_duaren" height="30" width="40" /></a>
-<a href="https://medium.com/@duaren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@duaren" height="30" width="40" /></a>
 </p>
 
 
@@ -20,7 +19,7 @@
  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=duaren&show_icons=true&locale=en" alt="duaren"/>
 
 - 🔭 I’m currently working on  my [**portfolio**](https://duaren.github.io)
-- 🌱 I’m currently learning **FrontEnd** with ![FCC](https://img.shields.io/badge/freecodecamp-27273D?logo=freecodecamp&logoColor=white)
+- 🌱 I’m following my **Programming** learning journey  with ![FCC](https://img.shields.io/badge/freecodecamp-27273D?logo=freecodecamp&logoColor=white)
 - 🚀 Always ready to collaborate for Dev Experiments
 - 🤝 I’m looking for help with **free tech certification voucher**
 - 👨‍💻 All of my projects are available at [duaren.me](https://duaren.me)
