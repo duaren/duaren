@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=montserat&color=%2336BCF7&lines=I'm+Renaud+Ahouansou;But+you+can+call+me+%40duaren;I'm+Junior+FrontEnd+Developer;Recent+Focus+on+IT+Support;Also+interested+in+Cloud+Computing;Always+learning+new+things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=montserat&color=%2336BCF7&lines=I'm+Renaud+Senou+Ahouansou;But+you+can+call+me+aka+%40duaren;I'm+Networks+and+Systems+Engineer;Recent+Focus+on+Frontend+Development;Also+interested+in+Cloud+Computing;Always+learning+new+things...">
 </p>
 
 <p align="center">
