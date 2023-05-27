@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://codepen.io/duaren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="duaren" height="30" width="40" /></a>
-<a href="https://twitter.com/renauduaren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="renauduaren" height="30" width="40" /></a>
+<a href="https://twitter.com/renaudduaren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="renaudduaren" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/renaud-ahouansou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renaudahouansou" height="30" width="40" /></a>
 <a href="https://instagram.com/renaud_duaren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="renaud_duaren" height="30" width="40" /></a>
 </p>
