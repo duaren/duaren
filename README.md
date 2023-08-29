@@ -17,7 +17,7 @@
 
 
 ## 👨🏻‍💻 About Me
- <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=duaren&show_icons=true&locale=en" alt="duaren"/>
+ <!-- <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=duaren&show_icons=true&locale=en" alt="duaren"/> -->
 
 - 🔭 I’m currently learning **Cloud Computing & DevOps**
 - 🚀 Always ready to collaborate for new experiments
