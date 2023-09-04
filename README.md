@@ -17,16 +17,16 @@
 
 
 ## 👨🏻‍💻 About Me
- <!-- <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=duaren&show_icons=true&locale=en" alt="duaren"/> -->
+<img align="right" width="25%" src="https://raw.githubusercontent.com/duaren/duaren/main/IT-guy.gif" alt="duaren"/>
 
 - 🔭 I’m currently learning **Cloud Computing & DevOps**
-- 🚀 Always ready to collaborate for new experiments
+- 🚀 Always ready to collaborate for new experiences
 - 🤝 I’m looking for help with **IT Certification opportunities**
 - 👨‍💻 All of my web projects are available at [duaren.me](https://duaren.me)
 - ✍🏾 Soon I will regularly write articles on my [blog](https://duaren.me/blog)
 - 📫 How to reach me: [**renaudduaren@gmail.com**](mailto:[**renaudduaren@gmail.com)
 - ⚡ Fun fact **I'm tech ninja a pure T Shaped profile**
-<p  align="center">
+<p  align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=duaren.duaren" alt="visitor badge"/>
 </p>
 
